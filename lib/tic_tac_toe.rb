@@ -136,7 +136,7 @@ class TicTacToe
 
   end
   
-  "TicTacToe" = TicTacToe.new 
+  TicTacToe.new 
   
   
 
